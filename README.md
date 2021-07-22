@@ -4,4 +4,5 @@ Matlab function that calculates the distances along a great circle and theoretic
 # infrasound-signal-arrival-azimuth-ss
 Matlab function calculates the distances along a great circle and theoretical delay times of infrasonic signals (source-to-receiver) at any given location on Earth. The function is written for a single source and a single receiver. Please refer to infra_dist_azimuth.m for arrivals at all stations of the CTBTO IMS network.
 
-DOI: 10.5281/zenodo.5114775
+[![DOI](https://zenodo.org/badge/387334309.svg)](https://zenodo.org/badge/latestdoi/387334309)
+
